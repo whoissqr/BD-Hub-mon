@@ -21,7 +21,7 @@ if __name__ == "__main__":
     TOKEN = os.environ.get("HUB_94_TOKEN", "")
     hub = HubInstance(urlbase, api_token=TOKEN, insecure=True)
 
-    projects = hub.get_projects()
+    projects = hub.get_projects(limit=5)
 
     print(json.dumps(projects.get('items', [])))
 
