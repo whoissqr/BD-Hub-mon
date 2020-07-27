@@ -7,7 +7,7 @@ import re
 import os
 import datetime
 
-
+root = pathlib.Path(__file__).parent.resolve()
 
 
 if __name__ == "__main__":
