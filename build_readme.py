@@ -16,21 +16,19 @@ root = pathlib.Path(__file__).parent.resolve()
 
 if __name__ == "__main__":
 
-
-    urlbase = "https://poc94.blackduck.synopsys.com/"
-    TOKEN = os.environ.get("HUB_94_TOKEN", "")
-    hub = HubInstance(urlbase, api_token=TOKEN, insecure=True)
-
-    projects = hub.get_projects(5)
-
-    print(json.dumps(projects.get('items', [])))
-
-
-
     readme = root / "README.md"
     pp = pprint.PrettyPrinter(indent=4)
 
     rewritten = "demo hub status === \n"
-    rewritten += pp.pprint(json.dumps(projects.get('items', [])))
+
+    # get list of projects from poc94
+    urlbase = "https://poc94.blackduck.synopsys.com/"
+    TOKEN = os.environ.get("HUB_94_TOKEN", "")
+    hub = HubInstance(urlbase, api_token=TOKEN, insecure=True)
+
+    project_list = hub.get_projects(5)
+    for project in project_list['items']:
+        rewritten += project['name'] 
+        rewritten += '\n'
 
     readme.open("w").write(rewritten)
