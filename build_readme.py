@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
     project_list = hub.get_projects(5)
     for project in project_list['items']:
-        rewritten += project['name'] 
+        rewritten += '* ' + project['name'] 
         rewritten += '\n'
 
     readme.open("w").write(rewritten)
