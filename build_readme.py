@@ -26,7 +26,7 @@ if __name__ == "__main__":
     TOKEN = os.environ.get("HUB_94_TOKEN", "")
     hub = HubInstance(urlbase, api_token=TOKEN, insecure=True)
 
-    project_list = hub.get_projects(5)
+    project_list = hub.get_projects()
     for project in project_list['items']:
         rewritten += '* ' + project['name'] 
         rewritten += '\n'
