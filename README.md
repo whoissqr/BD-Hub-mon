@@ -11,6 +11,7 @@ demo hub status ===
 * jenkins-gdc
 * KestrelHttps
 * mini-js-express
+* miniJS-w-action-issue
 * NodeGoat
 * Pipeline-build-in-docker-polaris-hub-sqli-demo
 * Pipeline-build-in-docker-sqli-demo
