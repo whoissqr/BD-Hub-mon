@@ -14,6 +14,7 @@ demo hub status ===
 * miniJS-appsec-w-dashboard
 * miniJS-w-action-issue
 * NodeGoat
+* NodeGoat-w-super-linter
 * Pipeline-build-in-docker-polaris-hub-sqli-demo
 * Pipeline-build-in-docker-sqli-demo
 * Pipeline-build-in-docker-sqli-demo-parallel
