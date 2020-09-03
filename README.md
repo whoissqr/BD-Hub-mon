@@ -23,7 +23,9 @@ demo hub status ===
 * pipeline-mini-js-express-appsec
 * pipeline-mini-js-express-appsec-demo
 * Pipeline-mini-js-express-appsec-test
+* shepher-impact-analysis
 * vcpkg
 * WebGoat
+* WebGoat-impact-analysis
 * whoissqr/miniJS-w-action-issue
 * yocto_detector
