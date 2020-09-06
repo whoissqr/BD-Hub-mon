@@ -16,6 +16,7 @@ demo hub status ===
 * NodeGoat
 * NodeGoat-appsec-in-action
 * NodeGoat-w-super-linter
+* owasp-nodejs-goat
 * Pipeline-build-in-docker-polaris-hub-sqli-demo
 * Pipeline-build-in-docker-sqli-demo
 * Pipeline-build-in-docker-sqli-demo-parallel
