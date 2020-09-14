@@ -9,7 +9,7 @@ import datetime
 from blackduck.HubRestApi import HubInstance
 import json
 import pprint
-
+import logging
 
 root = pathlib.Path(__file__).parent.resolve()
 
