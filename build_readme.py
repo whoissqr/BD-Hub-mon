@@ -1,11 +1,5 @@
-#from python_graphql_client import GraphqlClient
-#import feedparser
-#import httpx
-#import json
 import pathlib
-#import re
 import os
-#import datetime
 import pprint
 import logging
 from blackduck.HubRestApi import HubInstance
