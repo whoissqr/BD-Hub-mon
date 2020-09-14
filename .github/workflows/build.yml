@@ -32,7 +32,6 @@ jobs:
         
     - name: Update README
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
         HUB_94_TOKEN: ${{ secrets.HUB_94_TOKEN }}
         
       run: |-
