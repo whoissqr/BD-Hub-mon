@@ -3,3 +3,4 @@ httpx
 feedparser
 datetime
 blackduck
+logging
