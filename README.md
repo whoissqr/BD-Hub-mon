@@ -24,6 +24,7 @@ demo hub status ===
 * pipeline-mini-js-express-appsec
 * pipeline-mini-js-express-appsec-demo
 * Pipeline-mini-js-express-appsec-test
+* SGMobileBankingApplication.apk
 * shepher-impact-analysis
 * vcpkg
 * WebGoat
