@@ -30,4 +30,5 @@ demo hub status ===
 * WebGoat
 * WebGoat-impact-analysis
 * whoissqr/miniJS-w-action-issue
+* whoissqr/SmartHotel360-Website
 * yocto_detector
