@@ -1,5 +1,6 @@
 demo hub status === 
 * adm-zip
+* APAC_AIA_demo_k8s
 * aws-code-build-dotnetcore
 * build
 * CCare-using-detect-UI
