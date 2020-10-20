@@ -1,5 +1,6 @@
 demo hub status === 
 * adm-zip
+* alpine
 * APAC_AIA_demo_k8s
 * aws-code-build-dotnetcore
 * build
@@ -9,6 +10,7 @@ demo hub status ===
 * demo
 * docker-t1
 * ducky-crm
+* hello-world
 * jenkins-gdc
 * KestrelHttps
 * mini-js-express
