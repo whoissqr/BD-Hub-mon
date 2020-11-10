@@ -1,4 +1,5 @@
 demo hub status === 
+* +git/eoan
 * adm-zip
 * alpine
 * APAC_AIA_demo_k8s
@@ -19,6 +20,7 @@ demo hub status ===
 * NodeGoat
 * NodeGoat-appsec-in-action
 * NodeGoat-w-super-linter
+* openssl-1.1.1g
 * owasp-nodejs-goat
 * Pipeline-build-in-docker-polaris-hub-sqli-demo
 * Pipeline-build-in-docker-sqli-demo
