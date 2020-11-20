@@ -11,6 +11,7 @@ demo hub status ===
 * demo
 * docker-t1
 * ducky-crm
+* hashicorp/vault
 * hello-world
 * jenkins-gdc
 * KestrelHttps
