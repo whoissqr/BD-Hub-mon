@@ -4,13 +4,13 @@ demo hub status ===
 * alpine
 * APAC_AIA_demo_k8s
 * aws-code-build-dotnetcore
-* build
 * CCare-using-detect-UI
 * Communicare
 * coverity-capture-mini-js
 * demo
 * docker-t1
 * ducky-crm
+* GR
 * hashicorp/vault
 * hello-world
 * jenkins-gdc
@@ -33,6 +33,7 @@ demo hub status ===
 * ql-ol-kernel
 * SGMobileBankingApplication.apk
 * shepher-impact-analysis
+* test-upgrade-guidance
 * vcpkg
 * WebGoat
 * WebGoat-impact-analysis
