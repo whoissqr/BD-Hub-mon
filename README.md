@@ -10,6 +10,7 @@ demo hub status ===
 * demo
 * docker-t1
 * ducky-crm
+* eric_test
 * GR
 * hashicorp/vault
 * hello-world
