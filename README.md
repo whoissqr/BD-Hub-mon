@@ -38,6 +38,7 @@ demo hub status ===
 * vcpkg
 * WebGoat
 * WebGoat-impact-analysis
+* webgoat-parent
 * whoissqr/miniJS-w-action-issue
 * whoissqr/SmartHotel360-Website
 * yocto_detector
