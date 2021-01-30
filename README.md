@@ -35,6 +35,7 @@ demo hub status ===
 * ql-ol-kernel
 * SGMobileBankingApplication.apk
 * shepher-impact-analysis
+* srcclr/example-go-glide
 * test-build-img-in-pipeline
 * test-upgrade-guidance
 * vcpkg
