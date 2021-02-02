@@ -37,6 +37,7 @@ demo hub status ===
 * shepher-impact-analysis
 * srcclr/example-go-glide
 * test-build-img-in-pipeline
+* test-policy
 * test-upgrade-guidance
 * vcpkg
 * WebGoat
