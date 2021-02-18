@@ -16,6 +16,7 @@ demo hub status ===
 * hello-world
 * jenkins-gdc
 * KestrelHttps
+* kubernetes/kubernetes
 * maven-central
 * mini-js-express
 * miniJS-appsec-w-dashboard
