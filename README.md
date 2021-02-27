@@ -15,12 +15,14 @@ demo hub status ===
 * hashicorp/vault
 * hello-world
 * jenkins-gdc
+* JQuery
 * KestrelHttps
 * kubernetes/kubernetes
 * maven-central
 * mini-js-express
 * miniJS-appsec-w-dashboard
 * miniJS-w-action-issue
+* Node-A-B
 * NodeGoat
 * NodeGoat-appsec-in-action
 * NodeGoat-w-super-linter
@@ -38,6 +40,7 @@ demo hub status ===
 * shepher-impact-analysis
 * srcclr/example-go-glide
 * test-build-img-in-pipeline
+* test-code-location
 * test-policy
 * test-upgrade-guidance
 * vcpkg
