@@ -22,6 +22,7 @@ demo hub status ===
 * mini-js-express
 * miniJS-appsec-w-dashboard
 * miniJS-w-action-issue
+* my_package
 * Node-A-B
 * NodeGoat
 * NodeGoat-appsec-in-action
