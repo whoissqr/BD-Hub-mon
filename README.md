@@ -11,6 +11,7 @@ demo hub status ===
 * docker-t1
 * ducky-crm
 * eric_test
+* fw
 * GR
 * hashicorp/vault
 * hello-world
