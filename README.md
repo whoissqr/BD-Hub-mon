@@ -4,6 +4,7 @@ demo hub status ===
 * alpine
 * APAC_AIA_demo_k8s
 * aws-code-build-dotnetcore
+* boxee
 * CCare-using-detect-UI
 * Communicare
 * coverity-capture-mini-js
