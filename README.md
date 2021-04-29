@@ -39,6 +39,7 @@ demo hub status ===
 * pipeline-mini-js-express-appsec-demo
 * Pipeline-mini-js-express-appsec-test
 * ql-ol-kernel
+* SCart_Java-demo-sqli
 * SGMobileBankingApplication.apk
 * shepher-impact-analysis
 * srcclr/example-go-glide
