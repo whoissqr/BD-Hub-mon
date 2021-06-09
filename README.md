@@ -4,11 +4,13 @@ demo hub status ===
 * alpine
 * APAC_AIA_demo_k8s
 * aws-code-build-dotnetcore
+* blackducksoftware_rabbitmq
 * boxee
 * CCare-using-detect-UI
 * Communicare
 * coverity-capture-mini-js
 * demo
+* Docker
 * docker-t1
 * ducky-crm
 * eric_test
@@ -36,6 +38,7 @@ demo hub status ===
 * Pipeline-build-in-docker-sqli-demo
 * Pipeline-build-in-docker-sqli-demo-parallel
 * Pipeline-build-in-docker-sqli-demo-parallel_iast
+* pipeline-build-in-docker-webgoat8-daily
 * pipeline-mini-js-express-appsec
 * pipeline-mini-js-express-appsec-demo
 * Pipeline-mini-js-express-appsec-test
@@ -50,6 +53,7 @@ demo hub status ===
 * test-upgrade-guidance
 * vcpkg
 * WebGoat
+* webgoat-aggregate-bom
 * WebGoat-impact-analysis
 * webgoat-parent
 * whoissqr/miniJS-w-action-issue
