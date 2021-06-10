@@ -15,6 +15,7 @@ demo hub status ===
 * ducky-crm
 * eric_test
 * fw
+* Gitlab_WebGoat
 * GR
 * hashicorp/vault
 * hello-world
