@@ -10,6 +10,7 @@ demo hub status ===
 * Communicare
 * coverity-capture-mini-js
 * demo
+* digininja/DVWA
 * Docker
 * docker-t1
 * ducky-crm
