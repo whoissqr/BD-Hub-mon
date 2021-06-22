@@ -13,6 +13,12 @@ demo hub status ===
 * digininja/DVWA
 * Docker
 * docker-t1
+* docker.io/blackducksoftware/opssight-core
+* docker.io/blackducksoftware/opssight-image-getter
+* docker.io/blackducksoftware/opssight-image-processor
+* docker.io/blackducksoftware/opssight-pod-processor
+* docker.io/blackducksoftware/opssight-scanner
+* docker.io/prom/prometheus
 * ducky-crm
 * eric_test
 * fw
@@ -45,6 +51,11 @@ demo hub status ===
 * pipeline-mini-js-express-appsec-demo
 * Pipeline-mini-js-express-appsec-test
 * ql-ol-kernel
+* quay.io/openshift-release-dev/ocp-release
+* registry.access.redhat.com/ubi8/dotnet-21
+* registry.access.redhat.com/ubi8/dotnet-21-runtime
+* registry.access.redhat.com/ubi8/dotnet-31
+* registry.access.redhat.com/ubi8/dotnet-31-runtime
 * SCart_Java-demo-sqli
 * SGMobileBankingApplication.apk
 * shepher-impact-analysis
