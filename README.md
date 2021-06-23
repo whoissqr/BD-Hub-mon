@@ -26,6 +26,7 @@ demo hub status ===
 * GR
 * hashicorp/vault
 * hello-world
+* image-registry.openshift-image-registry.svc:5000/node-proj-a/nodejs-ex
 * jenkins-gdc
 * JQuery
 * KestrelHttps
