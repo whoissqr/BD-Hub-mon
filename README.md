@@ -52,6 +52,7 @@ demo hub status ===
 * pipeline-mini-js-express-appsec-demo
 * Pipeline-mini-js-express-appsec-test
 * ql-ol-kernel
+* quarkus-ide-config
 * quay.io/openshift-release-dev/ocp-release
 * registry.access.redhat.com/ubi8/dotnet-21
 * registry.access.redhat.com/ubi8/dotnet-21-runtime
