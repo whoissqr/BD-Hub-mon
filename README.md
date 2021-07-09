@@ -9,6 +9,7 @@ demo hub status ===
 * CCare-using-detect-UI
 * Communicare
 * coverity-capture-mini-js
+* cpuminer-with-h1
 * demo
 * digininja/DVWA
 * Docker
@@ -33,6 +34,7 @@ demo hub status ===
 * hashicorp/vault
 * hello-world
 * image-registry.openshift-image-registry.svc:5000/node-proj-a/nodejs-ex
+* imp/dnsmasq
 * jenkins-gdc
 * JQuery
 * KestrelHttps
