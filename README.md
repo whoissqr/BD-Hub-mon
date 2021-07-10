@@ -12,6 +12,7 @@ demo hub status ===
 * cpuminer-with-h1
 * demo
 * digininja/DVWA
+* dnsmasq
 * Docker
 * docker-t1
 * docker.io/ansibleplaybookbundle/origin-ansible-service-broker
@@ -98,4 +99,3 @@ demo hub status ===
 * webgoat-parent
 * whoissqr/miniJS-w-action-issue
 * whoissqr/SmartHotel360-Website
-* yocto_detector
